@@ -65,6 +65,7 @@ $packages = @(
   # 6) ユーティリティ
   "DevToys -s msstore",
   "File-New-Project.EarTrumpet",
+  "Flow Launcher",
   "7zip.7zip",
   "voidtools.Everything",
   "Microsoft.PCManager",                   # :contentReference[oaicite:1]{index=1}
